@@ -14,7 +14,6 @@ The dataset used contains anonymized credit card transaction data with 30 featur
 
 **2. Data Preprocessing**
 Data preparation includes:
-
 Handling missing values
 Normalizing features (important for Logistic Regression)
 Checking class imbalance
@@ -24,7 +23,6 @@ Removing outliers (optional)
 
 **3. Splitting Training & Testing Data**
 The dataset is divided into:
-
 Training Set (80%) – used to train the model
 Testing Set (20%) – used to evaluate performance
 
