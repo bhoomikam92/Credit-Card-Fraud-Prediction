@@ -1,4 +1,4 @@
-his project focuses on detecting fraudulent credit card transactions using Logistic Regression, a powerful algorithm widely used for binary classification tasks. The goal is to identify patterns that differentiate legitimate transactions from fraudulent ones, helping financial institutions minimize losses and improve security.
+This project focuses on detecting fraudulent credit card transactions using Logistic Regression, a powerful algorithm widely used for binary classification tasks. The goal is to identify patterns that differentiate legitimate transactions from fraudulent ones, helping financial institutions minimize losses and improve security.
 
 Project Overview
 Credit card fraud is a major challenge in the financial industry. Fraudulent transactions are typically rare, making this a highly imbalanced classification problem.
@@ -34,8 +34,6 @@ We train a Logistic Regression model, which works well for binary classification
 
 5. Model Evaluation
 We evaluate the model using:
-
 Accuracy
-
 
 These metrics give a clear understanding of how the model handles fraud detection, especially false positives vs. false negatives.
